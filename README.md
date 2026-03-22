@@ -2,6 +2,7 @@
 
 | CVE ID | Title | Credit |
 | :---: | --- | :---: |
+| [CVE-2026-20817](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20817/) | Windows Error Reporting Service Elevation of Privilege Vulnerability | Denis Faiustov, Ruslan Sayfiev |
 | [CVE-2024-13345](https://nvd.nist.gov/vuln/detail/CVE-2024-13345) | Avada Builder <= 3.11.13 - Unauthenticated Arbitrary Shortcode Execution | [@mikemyers](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/michael-mazzolini) |
 | [CVE-2024-13346](https://nvd.nist.gov/vuln/detail/CVE-2024-13346) | Avada Theme <= 7.11.13 - Unauthenticated Arbitrary Shortcode Execution | [@mikemyers](https://www.wordfence.com/threat-intel/vulnerabilities/researchers/michael-mazzolini) |
 | [CVE-2021-27091](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-27091) | RPC Endpoint Mapper Service Elevation of Privilege Vulnerability | [@itm4n](https://infosec.exchange/@itm4n) |
